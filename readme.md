@@ -2,7 +2,13 @@
 
 #### Objetivo
 El objetivo de este taller es aprender los conceptos fundamentales de multi-threading en Java, implementando ejemplos prácticos para entender cómo manejar múltiples hilos en una aplicación Java.
+## Integrantes
 
+| Nombre | Correo institucional |
+|--------|----------------------|
+| Juanita Parra | juanitapasu@unisabana.edu.co |
+| Alejandro Parra | alejandropaga@unisabana.edu.co |
+| Esteban Sequeda | estebansequeda@unisabana.edu.co |
 #### Pre-requisitos
 - Conocimientos básicos de Java.
 - Familiaridad con conceptos de concurrencia y threading.
